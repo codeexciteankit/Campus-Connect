@@ -1,0 +1,10 @@
+fastapi==0.141.1
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pydantic-settings
+qrcode==8.0
+pillow==11.1.0
+reportlab==4.2.5
